@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 84d3842 (base FE)
 # SmartPrep
 Frontend of SmartPrep
 # Client Project Structure
